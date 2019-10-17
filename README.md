@@ -1,2 +1,2 @@
-# hello-world
-Hello github repository
+#hello-world
+print("hello github!")
